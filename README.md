@@ -1,4 +1,4 @@
-# Phishing Websites Detection using Machine Learning
+# REAL-TIME PHISHING URL DETECTION USING ENSEMBLE LEARNING 
 
 ## 🎯 Project Overview
 
@@ -40,12 +40,6 @@ The best performing model achieves:
 - Required Python packages (see `requirements.txt`)
 
 ### Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/phishing-websites-detection.git
-cd phishing-websites-detection
-```
 
 2. Install required packages:
 ```bash
@@ -136,10 +130,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Machine learning community for algorithms and techniques
 - Open-source libraries used in this project
 
-## 📞 Contact
-
-For questions or suggestions, please open an issue on GitHub or contact the project maintainer.
-
----
 
 **Note**: This project is for educational and research purposes. Always verify URLs through multiple sources before making security decisions. 
