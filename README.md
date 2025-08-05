@@ -1,4 +1,4 @@
-# REAL-TIME PHISHING URL DETECTION USING ENSEMBLE LEARNING 
+# Real-Time Phishing URL detection using ensemble learning
 
 ## 🎯 Project Overview
 
@@ -132,3 +132,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **Note**: This project is for educational and research purposes. Always verify URLs through multiple sources before making security decisions. 
+
