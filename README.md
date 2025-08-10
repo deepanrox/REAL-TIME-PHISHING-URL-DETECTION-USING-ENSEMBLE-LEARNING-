@@ -50,38 +50,6 @@ pip install -r requirements.txt
    - Place your `Dataset.csv` file in the project root directory
    - The dataset should contain columns: `URL` and `Label` (where Label is 'good' or 'bad')
 
-## 📁 Project Structure
-
-```
-phishing-websites-detection/
-├── Phishing_Websites_EL_updated.ipynb  # Main Jupyter notebook
-├── Dataset.csv                         # Dataset file (not included in repo)
-├── requirements.txt                    # Python dependencies
-├── README.md                          # This file
-├── .gitignore                         # Git ignore file
-└── images/                            # Generated visualizations
-    ├── heatmap.png
-    ├── heatmapfeaturecorr.png
-    └── RFLearningPlot.png
-```
-
-## 🎮 Usage
-
-### Running the Notebook
-
-1. Start Jupyter Notebook:
-```bash
-jupyter notebook
-```
-
-2. Open `Phishing_Websites_EL_updated.ipynb`
-
-3. Run all cells to:
-   - Load and preprocess the data
-   - Extract features from URLs
-   - Train multiple machine learning models
-   - Evaluate model performance
-   - Generate visualizations
 
 ### Using the Prediction Function
 
@@ -112,24 +80,11 @@ The project includes comprehensive data analysis:
 - Top-level domain analysis
 - Feature importance analysis
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- Dataset sources and contributors
-- Machine learning community for algorithms and techniques
-- Open-source libraries used in this project
-
-
-**Note**: This project is for educational and research purposes. Always verify URLs through multiple sources before making security decisions. 
 
